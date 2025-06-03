@@ -1,0 +1,5 @@
+com\casagrande\restaurantecasagrandeweb\resources\JakartaEE8Resource.class
+com\casa\grande\modelo\Inventario.class
+com\casa\grande\modelo\Producto.class
+com\casa\grande\controlador\RegistrarProductoServlet.class
+com\casagrande\restaurantecasagrandeweb\JakartaRestConfiguration.class
